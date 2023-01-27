@@ -10,6 +10,7 @@ import warnings
 from base64 import encode
 # import numpy as np
 # import pandas as pd
+
 import gensim
 import gensim.corpora as corpora
 from gensim.models import CoherenceModel, LdaModel
